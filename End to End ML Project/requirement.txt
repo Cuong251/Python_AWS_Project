@@ -1,8 +1,8 @@
 ipykernel
+gunicorn
 numpy
 pandas
 matplotlib
 seaborn
 flask
-streamlit
 scikit-learn
